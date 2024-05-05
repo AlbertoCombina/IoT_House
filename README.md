@@ -14,10 +14,14 @@ The goal of this project is to create a web server using the Arduino Uno R4 Wifi
 | Task                                        | Current Status |
 |---------------------------------------------|----------------|
 | Setup PlatformIO                            | Done           |
-| Design the MasterNode connections           | In Progress    |
-| Design temperature/humidity for MasterNode  | New            |
-| Code temperature/humidity for MasterNode    | New            |
+| Design the MasterNode DHT22 connections     | Done           |
+| Code temperature/humidity for MasterNode    | In Progress    |
 | Design display for MasterNode               | New            |
 | Code display for MasterNode                 | New            |
 | Test Libs to make master node a web server  | New            |           
 | Connect MasterNode to the Arduino App       | New            |   
+
+
+## Master Node Circuit Design
+
+![master_node_design](misc\circuit_design\master_node_design.png)
