@@ -24,4 +24,4 @@ The goal of this project is to create a web server using the Arduino Uno R4 Wifi
 
 ## Master Node Circuit Design
 
-![master_node_design](misc\circuit_design\master_node_design.png)
+![master_node_design](misc/circuit_design/master_node_design.png)
