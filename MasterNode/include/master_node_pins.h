@@ -1,0 +1,8 @@
+# ifndef MASTER_NODE_PINS
+# define MASTER_NODE_PINS
+
+
+# define DHT_22_DATA_PIN 8
+
+
+# endif //MASTER_NODE_PINS
